@@ -8,11 +8,11 @@ close all;
 %Design of Narrowband Filters using Multirate Technique
 %
 %
-%This code takes an example
+%This code uses an example
 %
-%First Filters it with a LPF filter
+%First Filters it with an LPF filter
 %
-%Then Filter it with Polyphase Techniques
+%Then Filters it with Polyphase Techniques
 %
 %1006071 – Mohammad Tariqul Islam
 %1006075 – Shuvo Newaz

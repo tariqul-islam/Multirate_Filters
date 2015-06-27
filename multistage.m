@@ -8,11 +8,11 @@ close all;
 %Design of Narrowband Filters using Multirate Technique
 %
 %
-%This code takes an example
+%This code runs an example
 %
-%First Filters it with a LPF filter
+%First Filters it with an LPF filter
 %
-%Then Filter it with Three Stage Multirate Signal
+%Then Filters it with Three Stage Multirate System
 %
 %1006071 – Mohammad Tariqul Islam
 %1006075 – Shuvo Newaz
